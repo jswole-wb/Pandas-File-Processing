@@ -1,5 +1,6 @@
 # Python_XLS_File_Processing
  Process Excel Files with blank. If a cell and next cell is empty, it will take the value of the previous cell and fill in the rest. 
+![image](https://user-images.githubusercontent.com/83979205/140432178-8cd7b225-7003-432a-a81a-805c2ad30d12.png)
 
 FROM:
 #    Order_ID Customer_name            Album_Name           Artist  Quantity
