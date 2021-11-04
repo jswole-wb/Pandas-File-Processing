@@ -1,0 +1,16 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+#excel files
+proccessfiles2.py
+process2.py
+/.xls
+/.xlsx
+/.csv
+.vscode
+
+
+# tesfiles
+/old
+
+
+
